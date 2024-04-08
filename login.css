@@ -1,0 +1,360 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family:montserrat;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #dfdfdf;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:  #1b8a04;
+    color: #ffffff;
+  }
+  
+  .nav-links a {
+    color: #fff;
+  }
+  .logo {
+    font-size: 32px;
+  }
+  
+  .logo img {
+    max-width: 48px;
+   }
+  
+  .menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+    background-color:  #1b8a04;
+  
+  }
+  
+  .menu li:hover {
+    background-color: #61c44e;
+    border-radius: 5px;
+  }
+  
+  .menu li {
+    padding: 5px 14px;
+  }
+  
+  
+  .Locations {
+    position: relative; 
+  }
+  
+  .dropdown {
+    background-color: #61c44e;
+    padding: 1em 0;
+    position: absolute; 
+    display: none;
+    border-radius: 8px;
+    top: 35px;
+  }
+  
+  .dropdown li + li {
+    margin-top: 10px;
+  }
+  
+  .dropdown li {
+    padding: 0.5em 1em;
+    width: 8em;
+    text-align: center;
+  }
+  
+  .dropdown li:hover {
+    background-color: #56aa46;
+  }
+  
+  .Locations:hover .dropdown {
+    display: block;
+  }
+  
+  input[type=checkbox] {
+    display: none;
+  } 
+  
+  .hamburger {
+    display: none;
+    font-size: 24px;
+    user-select: none;
+  }
+  
+  @media (max-width: 750px) {
+   .menu {
+      display:none;
+      position: absolute;
+      background-color: #1b8a04;
+      right: 0;
+      left: 0;
+      text-align: center;
+      padding: 15px 0;
+    }
+  
+    .menu li:hover {
+      display: inline-block;
+      background-color:#61c44e;
+      transition: 0.3s ease;
+      cursor: pointer;
+    }
+  
+    .menu li + li {
+      margin-top: 12px;
+    }
+  
+    input[type=checkbox]:checked ~ .menu {
+      display: block;
+    }
+  
+    .hamburger {
+      display: block;
+      cursor: pointer;
+    }
+  
+    .dropdown {
+      left: 50%;
+      top: 30px;
+    }
+  
+    .dropdown li:hover {
+      background-color: #56aa46;
+    }
+  }
+
+
+
+.login-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 450px;
+    height: 570px;
+    padding: 30px;
+    
+}
+
+.login-header{
+    text-align: center;
+    margin: 20px 0 40px 0;
+}
+
+
+.login-header header {
+    color: #000000;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.input-box .input-field {
+    width: 100%;
+    height: 60px;
+    font-size: 17px;
+    padding: 0 25px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 5px 10px 1px rgba(0, 0, 0, 0.05);
+    outline: none;
+    transition: .3s;
+}
+
+::placeholder {
+    font-weight: 500;
+    color: #222;
+}
+
+.input-submit {
+    position: relative;
+}
+
+.submit-btn {
+    width: 100%;
+    height: 60px;
+    background: #222;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s;
+    color: #fff;
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.submit-btn:hover {
+    background: #000000;
+    transform: scale(1.05, 1);
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+    margin : 3px 7px 9px
+}
+
+.checkbox label:hover {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.checkbox input[type="checkbox"] {
+    display: block;
+    margin: 0 2%;
+}
+
+.img {
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+    background-image: url("img5.jpg")
+}
+
+
+
+      /* FOOTER */
+
+      .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 20px;
+        background: #191b1b;
+        color: #74cc69;
+       }
+       
+       .footer-section {
+        flex: 1;
+        margin-left: 10%;
+       }
+      
+       .footer-head {
+        flex: 1;
+        margin-left: 10%;
+       }
+       
+       .footer-section h4 {
+        margin-bottom: 10px;
+       }
+       
+       .footer-section ul {
+        list-style: none;
+        padding: 0;
+       }
+       
+       .footer-section ul li {
+        margin-bottom: 11px;
+       }
+       
+       .footer-section ul li a {
+        color: #63c45b;
+        text-decoration: none;
+       }
+       
+       .footer-section ul li a:hover {
+        color: #256119;
+        text-decoration: underline;
+       }
+       
+       .fa-map-pin, .fa-phone, .fa-envelope {
+        margin-right: 15px;
+        color: white;
+        font-size: 20px;
+       }
+       
+       .footer-bottom p{
+        background: #3e9645;
+        padding: 10px;
+        text-align: center;
+        color: #fff;
+       }
+       
+       h4{
+        color: #ffffff;
+        font-size: 20px;
+       }
+       .footer-head img {
+        max-width: 200px;
+       }
+      .socials{
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1rem 6rem 3rem 0;
+      }
+      
+      .socials li{
+        margin: 0 10px;
+      }
+      .socials a{
+        text-decoration: none;
+        color: #ffffff;
+      }
+      .socials a i{
+        font-size: 1.1rem;
+        transition: color .4s ease;
+      
+      }
+      .socials a:hover i{
+        color: rgb(83, 216, 112);
+      }
+      
+      @media (max-width: 720px) {
+        .footer-content {
+          flex-direction: column;
+        }
+      
+        .footer-section, .footer-head {
+            margin-left: 5%;
+        }
+      
+        h4 {
+        font-size: 16px;
+        }
+      
+        .fa-map-pin, .fa-phone, .fa-envelope {
+            font-size: 16px;
+        }
+      }
+
+
+.footer-subsciption   {
+    margin: 28px 0 5px;
+}   
+.footer-subsciption button {
+    padding: 10px 20px;
+    background-color: #63c45b;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer-subsciption button:hover {
+    background-color: #399427;
+    transform: scale(1.07, 1);
+    color: #fff;
+}
+    

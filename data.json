@@ -1,0 +1,363 @@
+{
+    "Footer" : [
+        {
+            "footer_head" : "Enchanting Sri Lanka",
+            "footer_link" : "Navigation Links",
+            "footer_contact" : "Contact Us",
+            "footer_news" : "Join our Newsletter"
+        }
+    ],
+    "title_1": "Enchanting Sri Lanka",
+    "sections": [
+      {
+        "title": "WILDLIFE SRILANKA",
+        "content": "Sri Lanka is renowned for its rich and diverse wildlife, offering a unique and vibrant ecosystem. The island nation, located in South Asia, is home to a wide range of flora and fauna, making it a biodiversity hotspot. Sri Lanka can make your all vacation dreams come true from adventures, The wildlife in Sri Lanka includes various species of mammals, birds, reptiles, amphibians, and insects. Yala National Park boasts one of the world's highest leopard densities,while Wilpattu is home to the elusive sloth bear. Avian wonders, including the vibrant Sri Lanka junglefowl and the camouflaged Ceylon frogmouth, add to the island's allure. Sri Lanka's reptilian diversity features the venomous cobra and crocodile species."
+      },
+      {
+        "title": "Mammals",
+        "content": [
+            {
+                "content_1" : "Sri Lanka boasts an impressive diversity of mammals, including iconic species like the Sri Lankan elephant, leopard, and sloth bear. The island is also home to lively primates such as the toque macaque and purple-faced langur, adding to the richness of its wildlife.",
+                "content_2" : "In the heart of lush landscapes, unique mammalian wonders thrive. The shaggy-coated Sri Lankan Sloth Bear, native to the island, exemplifies conservation efforts. The Purple-faced Langur, an endemic monkey species, swings through treetops in Sri Lanka's rich forests, highlighting the importance of preserving these habitats."
+            }
+        ]
+      },
+      {
+        "title": "Birds",
+        "content": [
+            {
+                "content_1" : "With its varied landscapes, Sri Lanka is a paradise for bird enthusiasts. The country hosts a diverse avian population, including endemic species like the Sri Lankan junglefowl, Sri Lanka wood pigeon, and the rare Ceylon spurfowl. Wetlands and national parks provide habitats for a multitude of migratory birds.",
+                "content_2" : "Sri Lanka serves as a crucial stopover for migratory birds, with Bundala National Park attracting waterfowl like the Greater Flamingo (Phoenicopterus roseus) and Eurasian Spoonbill (Platalea leucorodia). Coastal areas host seabirds such as the Brown Booby (Sula leucogaster) and the Sri Lanka Swallow (Hirundo hyperythra), enriching the island's diverse birdwatching experience."
+            }
+        ]
+      },
+      {
+        "title": "Reptiles",
+        "content": [
+            {
+                "content_1" : "Sri Lanka's diverse reptilian kingdom features enchanting snakes, like the vibrant Green Pit Viper (Trimeresurus trigonocephalus), and the diminutive marvel, the Pygmy Lizard (Cophotis ceylanica), found in the rocky central highlands.",
+                "content_2" : "In addition to these terrestrial wonders, Sri Lanka's coastal waters house captivating marine reptiles. Crocodile species, such as the Mugger Crocodile (Crocodylus palustris), navigate waterways.Sri Lanka's commitment to preserving both terrestrial and marine reptiles underscores its dedication to maintaining the delicate balance of its ecosystems."
+            }
+        ]      
+      },
+      {
+        "title": "Marine Life",
+        "content": [
+            {
+                "content_1" : "Sri Lanka's marine life is diverse and thriving, featuring vibrant coral reefs in places like Hikkaduwa and Pigeon Island. The region is a hotspot for marine mammals, including frequent sightings of blue whales and dolphins.",
+                "content_2" : "These iconic species underscore the nation's commitment to marine conservation. The reefs, adorned with colorful Clownfish and Parrotfish, not only enhance the visual appeal but also contribute significantly to the overall health of the marine environment."
+            }
+        ]      
+      },
+      {
+        "title": "Explore Sri Lanka's Wild Wonders",
+        "items": [
+            {
+              "title": "Diverse Wildlife Safaris",
+              "details": [
+                {
+                    "point_1": "Explore Sri Lanka's national parks, such as Yala, Udawalawe, and Wilpattu, on diverse wildlife safaris.",
+                    "point_2": "Encounter a plethora of species, including elephants, deer, wild boars, and a rich variety of birdlife."
+                }
+              ]
+            },
+            {
+              "title": "Leopard Spotting",
+              "details": [
+                {
+                    "point_1": "Experience the thrill of leopard spotting on dedicated safaris, particularly in Yala National Park.",
+                    "point_2": "Witness the elegance and power of these elusive big cats in their natural habitat."
+                }
+                
+                
+              ]
+            },
+            {
+              "title": "Elephant Gatherings",
+              "details": [
+                {
+                    "point_1": "Visit Minneriya or Kaudulla National Park to witness the incredible phenomenon of elephant gatherings.",
+                    "point_2": "Large herds congregate during the dry season, creating a unique and awe-inspiring spectacle."
+                }
+                
+              ]
+            },
+            {
+              "title": "Bird Watching",
+              "details": [
+                {
+                    "point_1": "Sri Lanka is a paradise for bird watchers, with over 430 bird species.",
+                    "point_2": "Head to Bundala National Park or Sinharaja Rainforest to spot colorful and exotic birds.",
+                    "point_3": "Includes endemic species like the Sri Lanka Junglefowl and the Ceylon Hanging Parrot."
+                }
+                        
+              ]
+            },
+            {
+              "title": "Sloth Bear Encounters",
+              "details": [
+                {
+                    "point_1": "In Yala and Wilpattu, you may have the opportunity to encounter the elusive sloth bear.",
+                    "point_2": "These unique creatures add to the diversity of Sri Lanka's wildlife and offer a fascinating sight during safaris."
+                }
+                
+              ]
+            }
+          ]      
+       }
+    ],
+    "title_2": "Introduction",
+    "sections_Intro": [
+        {
+          "title_main": "Udawalawe National Park",
+          "title": "Udawalawe National Park",
+          "description": "Udawalawe National Park in southern Sri Lanka spans 30,821 hectares and is renowned for its diverse wildlife, notably a large population of wild elephants. The park features grasslands, marshes, and forests, providing habitats for various species. It was established to protect the Udawalawe Reservoir, serving as a crucial water source for the region. Udawalawe is popular for safaris, offering opportunities to witness elephants, water buffaloes, deer, and a variety of bird species in their natural environment.",
+          "table": {
+            "headings": [
+                {
+                    "Title_1":"Name", 
+                    "Title_2": "Fun Fact", 
+                    "Title_3" : "Image"
+                }
+            ],
+            "data": [
+              { 
+                "Name": "Elephant", 
+                "Fun_Fact": "Elephants have the largest brains among land animals, with an average <br>weight of around 5 kg (11 pounds) for an adult elephant brain.<br> They are known for their intelligence and complex social structures." 
+              },
+
+              { 
+                "Name": "Leopard", 
+                "Fun_Fact": "Leopards stash their kills in trees to protect them.<br> Their adaptability and agility make them highly successful big cats." 
+              },
+
+              { 
+                "Name": "Jackals", 
+                "Fun_Fact": "Jackals are recognized for their eerie howls and yelps, serving <br>as communication within the pack and marking territory."
+              },
+
+              { 
+                "Name": "Crocodile", 
+                "Fun_Fact": "Crocodiles are remarkable survivors, having remained virtually unchanged for over 200 million years. <br>They are the apex predators in aquatic ecosystems." 
+              },
+
+              { 
+                "Name": "Sloth Bear", 
+                "Fun_Fact": "Sloth bears use a unique vacuum-like technique to suck up <br>insects, aiding efficient foraging in their natural habitat." 
+              }
+            ],
+            
+            "footer": "Explore the wildlife sanctuary for thrilling wildlife experiences!",
+
+            "Gallery" : "Udawalawe National Park Gallery"
+          }
+        },
+
+        {
+          "title_main": "Bundala National Park",
+          "title": "Bundala National Park",
+          "description": "Bundala National Park in southeastern Sri Lanka is a diverse wildlife sanctuary known for its significant birdlife, especially during the winter migration. The park features lagoons, coastal areas, and various ecosystems, making it a haven for migratory birds like flamingos and pelicans. With an area of around 6216 hectares, Bundala is also home to elephants, crocodiles, and diverse reptiles, offering a unique and compact destination for nature lovers.",
+          "table": {
+            "headings": [
+                {
+                    "Title_1":"Name", 
+                    "Title_2": "Fun Fact", 
+                    "Title_3" : "Image"
+                }
+            ],
+
+            "data": [
+              { 
+                "Name": "Monkey", 
+                "Fun_Fact": "Monkeys exhibit social intelligence and some use tools, showcasing <br>complex behaviors in grooming, communication, and hierarchy." 
+              },
+
+              { 
+                "Name": "Water Buffalo", 
+                "Fun_Fact": "Water buffaloes are adept swimmers, using water to cool down <br>and protect themselves from insects, showcasing<br> surprising agility despite their large size." 
+              },
+
+              { 
+                "Name": "Jackals", 
+                "Fun_Fact": "Civet cats contribute to coffee production by producing kopi luwak,<br> a rare coffee made from beans eaten and excreted by them." 
+              },
+
+              { 
+                "Name": "Sambar Deer", 
+                "Fun_Fact": "The Sambar deer, one of the largest deer species, communicates through <br>distinctive vocalizations, including barks and alarm calls." 
+              },
+
+              { 
+                "Name": "Mouse Deer", 
+                "Fun_Fact": "Despite its small size, the mouse deer is remarkably agile and speedy, <br>adept at navigating dense vegetation and evading predators." 
+              }
+
+            ],
+            
+            "footer": "Explore the wildlife sanctuary for thrilling wildlife experiences!",
+
+            "Gallery": "Bundala National Park Gallery"
+
+          }
+        }
+      ],
+      "title_3": "Wildlife Department",
+      "sections_Dept": [
+        {
+          "title": "The Department of Wildlife Conservation",
+          "subtitle": "Sri Lanka's Wildlife Guardians",
+          "content": "Guardians of paradise, the Department of Wildlife Conservation (DWC) shields Sri Lanka's vibrant tapestry of life. From majestic elephants gracing misty mountains to playful leopards stalking emerald jungles, the DWC protects endangered species, manages breathtaking parks, and promotes responsible tourism. Join the legacy - explore wonders like Yala's elusive leopards, Sinharaja's endemic treasures, and Minneriya's inspiring elephant gatherings. Together, we can ensure Sri Lanka's majestic wildlife thrives for generations to come. Visit the DWC and explore protected areas now!",
+          "buttonText": "Explore"
+        },
+        {
+          "Gallery_title": "PROTECTED AREAS"
+        }
+      ],
+
+      "title_4" : "Leopards",
+      "sections_leo": [
+        {
+          "title": "Sri Lankan Leopard",
+          "sections": 
+          [
+            {
+              "title": "LEOPARD VENUES IN SRI LANKA",
+              "locations": 
+              [
+                {
+                  "name": "Kumana National Park",
+                  "description": "The Kumana National Park in Sri Lanka is known for its significant leopard population. These leopards are part of the Panthera genus, which also includes lions, tigers, and jaguars. More specifically, the leopards found in the Kumana National Park are members of the Panthera pardus species, specifically the Sri Lankan leopard subspecies. These leopards are primarily nocturnal, which means they are most active during the night. This makes them somewhat challenging to observe during the daytime. However, due to their territorial nature, they are often seen moving around during the day, especially near their dens or hunting grounds."
+                },
+                {
+                  "name": "Singhagiri Forest",
+                  "description": "The Singhagiri Forest in Sri Lanka is home to the Sri Lankan leopard (Panthera pardus kotiya), a subspecies of the leopard. This leopard subspecies is native to Sri Lanka and has been listed as Vulnerable on the IUCN Red List since 2020, as the population is estimated to be less than 800 mature individuals and is likely declining. The Sri Lankan leopard in the Sinhagiri Forest shares similar characteristics with other leopards. It has a tawny or rusty yellow coat with dark spots and close-set rosettes."
+                },
+                {
+                  "name": "Horton Plains National Park",
+                  "description": "Horton Plains National Park, located in the country's central highlands, is notable for its exceptional highland environment and provides a special environment for Sri Lankan leopards. With its expansive grasslands and cloud forests, this park presents a unique viewpoint on leopard conservation. Horton Plains' varied habitats have allowed leopards to adapt with ease, demonstrating their extraordinary capacity to flourish in mountainous areas. Even though they could be harder to spot here than in other places, persistent observers might get lucky and catch a glimpse of one, especially in the slower times of the day. Discovering Horton Plains offers the opportunity to observe Sri Lankan leopards' flexibility and resiliency in this alluring habitat in addition to providing a peek into the intriguing highland ecology."
+                }
+              ]
+            },
+      
+            {
+              "title": "THREATS TO THE LEOPARDS",
+              "threats": 
+              [
+                {
+                  "title": "Leopard Exploitation",
+                  "description": "The illegal trade in leopard skins is a major threat to the Sri Lankan leopard's survival. Leopards are highly valued in the black market for their fur, used in luxury goods like purses and jackets. They are also sold in international markets, including China, due to cultural beliefs. The trade is facilitated by corruption within government agencies and law enforcement, and lacks effective monitoring and control measures. This contributes to the decline of the species' population and is a major concern for wildlife conservationists. <br><br> Efforts to combat this threat include increasing law enforcement and surveillance, implementing stricter regulations on the import and export of wildlife parts, and raising public awareness about the illegality and harm caused by the trade in leopard skins. <BR> <a href=\"https://www.iucn.org/news/why-we-need-to-act-now-save-sri-lankas-leopards\"> <button type=\"button\" class = \"btn\" >Explore</button> </a>"
+                },
+                {
+                  "title": "Habitat loss",
+                  "description": "Habitat loss is a major threat to the Sri Lankan leopard, causing its population to decline. Degradation of natural habitats leads to fragmentation, restricting leopards movement and access to food. Unplanned development and illegal encroachment are the primary causes of habitat loss, forcing wild animals into smaller spaces. These areas are unsuitable for leopard survival, forcing them into human-dominated areas, causing conflicts between humans and leopards. <br> Efforts to mitigate habitat loss include planning and sustainable development that takes into account the wilderness and wildlife that may already be living in these areas. This approach can help avoid much of the human-wildlife conflict that arises from habitat loss. <BR> <a href=\"https://groundviews.org/2023/08/01/saving-the-leopard-from-slipping-into-extinction\"> <button type=\"button\" class = \"btn\">Explore</button> </a>"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+
+      "title_5": "Animals of Sri Lanka",
+      "sections_Guide": [
+        {
+          "Indigenous": 
+          {
+            "title": "Indigenous Animals of Sri Lanka",
+            "description": "Sri Lanka's indigenous animals, including the revered Sri Lankan Elephant and elusive Sri Lankan Leopard, showcase the island's rich biodiversity. The middle highlands are home to the fascinating Serendib Scops Owl, while the national bird, the Sri Lankan Junglefowl, adds color. Diverse ecosystems benefit from the presence of native reptiles like the Green Pit Viper and Pygmy Lizard. These species make Sri Lanka a special shelter for exploration and demonstrate the country's commitment to conservation."
+          }
+        },
+        {
+          "Animals": [
+              {
+                "name": "Sri Lankan Elephant (Elephas maximus maximus)",
+                "description": "With a great variety of native creatures that support the island's distinctive and varied ecosystems, Sri Lanka is a biodiversity hotspot. The Sri Lankan elephant (Elephas maximus maximus), which is valued as a symbol of ecological and cultural significance, is one of the most famous. In national parks like Udawalawe and Minneriya, these gentle giants walk freely and captivate wildlife enthusiasts with their mesmerizing appearance."
+              },
+              {
+                "name": "Sri Lankan Leopard (Panthera pardus kotiya)",
+                "description": "Another natural wonder that demonstrates the wide diversity of carnivores on the island is the Sri Lankan Leopard (Panthera pardus kotiya). The leopard, with its beautiful coat and secretive character, is a symbol of the nation's dedication to protecting its natural species because it thrives in protected places like Yala National Park."             
+              },
+              {
+                "name": "Ceylon Whistling Thrush (Myophonus blighi)",
+                "description": "The Ceylon Whistling Thrush, also known as the Ceylon Blue Magpie, is a captivating endemic bird of Sri Lanka, found in its hill and montane forests. This medium-sized thrush, which stands out for having beautiful blue plumage, brings a lively touch to the mist-covered hills where it lives. Birdwatchers visiting the central and southwestern regions might enjoy an enthralling experience as its melodic whistling sounds reverberate near crystal-clear streams."
+              }
+            ]
+          }
+        
+      ],
+
+      "title_6": "Wilpattu National Park",
+      "sections_wilpattu": [
+        {
+          "title": "Wilpattu National Park",
+          "subtitle": "THINGS TO DO : ",
+          "sections": 
+          [
+            {
+              "title": "Welcome to Wilpattu National Park",
+              "description": "Wilpattu National Park, Sri Lanka's largest, is renowned for its diverse wildlife, including a significant leopard population. This vast wilderness offers a unique experience, showcasing harmonious coexistence between animals and their natural habitat. Encounter majestic elephants and other free-roaming wildlife, but remember to approach with respect. Wilpattu invites you to explore its untamed beauty, promising captivating encounters with Sri Lanka's diverse flora and fauna."
+            },
+            {
+              "title": "About The Wilpattu National Park",
+              "description": "Wilpattu National Park, Sri Lanka's largest and oldest national park, is known for its unique 'Willus' or natural lakes, which fill with rainwater, creating a distinctive ecosystem. The park spans 1,317 square kilometers and is located in the northwest coast lowland dry zone. It is home to 31 species of mammals, including threatened species like the Sri Lankan elephant, sloth bear, leopard, and water buffalo. Birdlife is abundant, with species like the painted stork, open bill, little cormorant, Sri Lankan junglefowl, owls, eagles, and kites. The park experienced an annual rainfall of around 1,000 mm, with the northeast monsoon being the main source. Visitors can enjoy eco-tourism and safari opportunities year-round, with the best wildlife viewing during the dry season from February to October."
+            },
+            {
+              "title": "Bird Watching",
+              "description": "Throughout your safari. There are 149 different species of birds in the world, many of which are indigenous. These include the easily observed Gray Hornbill, Brown-capped Babbler, Crimsonfronted Barbet, and Sri Lanka Jungle Fowl. At the Maradanmaduwa tank, a large breeding population of Painted storks is frequently sighted. The rare Malabar Trogon Harpactes fasciatus has only recently been observed in a dry zone at Wilpattu, which is a sign of the high caliber of the area's tall monsoon forest."
+            },
+            {
+              "title": "Wilpattu Tour",
+              "description": "Both domestic and foreign visitors can choose between half-day and full-day game drive packages at Wilpattu Megha Safari. We leave early in the morning at 6 AM and return late in the evening, ending at 6 PM, for our full day game drive. You will be able to have breakfast and lunch inside the park during this all-encompassing safari adventure. We can arrange for these meals if that's what you'd like. We now offer half-day safari drives for those looking for a more condensed wildlife experience. Either the morning, from 6 AM to 10 AM, or the evening, from 3 PM to 6 PM, might be chosen for these. Axis Deer, Sambar Deer, Jackals, various Mongoose species, an abundance of birds, and other wildlife can all be seen during these enthralling wildlife tours. Some of the most elusive wildlife in the country can also be seen, such as the majestic Sri Lankan Leopard, the elusive Sloth Bear, magnificent Elephants, and graceful Barking Deer."
+            },
+            {
+              "title": "Is Wilpattu Worth Visiting?",
+              "subpoint": "Wilpattu National Park is considered worth visiting : ",
+              "description": [
+                {
+                  "point" : "<b>Unspoiled Safari Destination:</b> Wilpattu National Park is valued for its untouched and intimate safari experience in Sri Lanka."
+                },
+                {
+                  "point" : "<b>Diverse Wildlife:</b> Wilpattu showcases a rich variety of wildlife, offering sightings of various species in their native environment."
+                },
+                {
+                  "point" : "<b>Scenic Landscapes:</b> The park features picturesque landscapes, including dry evergreen forests, marshes, wetlands, and approximately 60 natural lakes referred to as \"Willus.\""
+                }
+              ]
+            }
+          
+          ]
+        }
+      ],
+
+      "title_7": "Yala National Park",
+      "subtitle": "THINGS TO DO : ",
+      "sections_yala": [
+        {
+          "title": "Yala National Park",
+          "sections": 
+          [
+            {
+              "title": "Welcome to Yala National Park",
+              "description": "Yala National Park is the most visited wildlife park in Sri Lanka because it has a large population of leopards. There are very few places in the world where people coexist with free-roaming animals, including Sri Lanka. Elephants live a distinctive and exquisite lifestyle; one can frequently observe them crossing roadways or creeping into hotel lobby areas. Yala and other parks offer a secure haven for animals, but regrettably, bad interactions do occur. All the information you require about Sri Lanka's Yala National Park is provided here."
+            },
+            {
+              "title": "About The Yala National Park",
+              "description": "Yala combines a strict nature reserve with a national park. Divided into 5 blocks, the park has a protected area of nearly 130,000 hectares of land consisting of light forests, scrubs, grasslands, tanks and lagoons. Two blocks are currently opened to the public. Situated in Sri Lanka's south-east hugging the panoramic Indian Ocean, Yala was designated a wildlife sanctuary in 1900 and was designated a national park in 1938. Ironically, the park was initially used as a hunting ground for the elite under British rule. Yala is home to 44 varieties of mammal and 215 bird species. Among its more famous residents are the world's biggest concentration of leopards, majestic elephants, sloth bears, sambars, jackals, spotted dear, peacocks, and crocodiles. The best time to visit Yala is between February and July when the water levels of the park are quite low, bringing animals into the open."
+            },
+            {
+              "title": "Bird Watching",
+              "description": "Yala wetlands are home to around 90 water birds, with half being migrants. These include waterfowls, cormorants, large waterbirds, and rare species like Black-necked Stork and Lesser Adjutant. Other water birds include Lesser Flamingo, pelicans, and rare species like Purple Heron and Night herons. Thousands of waterfowls migrate during the northeast monsoon, while other bird species like Rock Pigeon, Barred Buttonquail, Indian Peafowl, Black Stork, and Greater Flamingo also call Yala home. The park also features raptors like Crested Serpent-eagle and White-bellied Sea Eagle."
+            },
+            {
+              "title": "Leopard Safari Tour",
+              "description": "This affordable safari concentrates on the spotted predator, which may be found in one of the world's densest populations in Yala National Park. Your driver/guide will only seek for leopards during the hours of dawn and sunset; in between, search for sloth bears, elephants, crocodiles, monkeys, deer, and other wildlife."
+            },
+            {
+              "title": "Is Yala Worth Visiting?",
+              "description": "<li>Yala, with all of its flora and animals, is one of Sri Lanka's must-see destinations and a unique experience. Any time of year is a good opportunity to visit the park. It is advisable to schedule your visit during the busiest season, which runs from December to April.</li><br> <li>You should be aware that you won't be the only vehicle around and that seeing leopards is not a given during the busiest time of year for leopard sightings, which is February and March. Large groups of pregnant elephants, on the other hand, are fairly visible throughout the park.</li>"
+            }
+          ]        
+        }
+      ]
+
+  }
+  

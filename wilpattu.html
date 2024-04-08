@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="wilpattu.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="icon" type="image/png" href="Untitled design.png">
+  <script src="wilpattu.js" defer></script>
+  <title id="title"></title>
+<header>
+  <nav class="navbar">
+    <div class="logo"><img src="logo.png">Enchanting Sri Lanka</div>
+    <ul class="nav-links">
+      <input type="checkbox" id="checkbox_toggle" />
+      <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+      <div class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Intro.html">SL Wildlife Intro</a></li>
+        <li><a href="Dept.html">Wildlife Dept</a></li>
+        <li><a href="leo.html">Leopard</a></li>
+        <li class="Locations">
+          <a href="Guide.html">SL Animal Guide</a>
+          <ul class="dropdown">
+            <li><a href="yala.html">Yala National Park</a></li>
+            <li><a href="wilpattu.html">Wilpattu National Park</a></li>
+          </ul>
+        </li>
+        <li id="login"><a href="login.html" >Login</a></li>
+        <li onclick= remover_user() id="logout">Logout</li>
+      </div>
+    </ul>
+  </nav>
+</header>
+<body>
+  
+        <!-- HERO SECTION -->
+  <div class="blkcontainer">
+    <div class="blkcontainer-text">
+      <h1 id="Wilpattu"></h1>
+    </div>
+  </div>
+
+  <div class="blkcontainer">
+    <nav class="Nav-links"> 
+        <ul>
+            <li><a href="#Intro">Introduction</a></li>
+            <li><a href="#About">About</a></li>
+            <li><a href="#BW">Bird Watching</a></li>
+            <li><a href="#LST">Leopard Safari</a></li>
+            <li><a href="#Wil">Wilpattu visiting</a></li>
+    
+        </ul>
+      </nav>
+    
+    <div class="chnge">
+        <div class="blkcontainer-2" id="Intro">
+            <h2 id="Welcome"></h2>
+            <p id="Welcome_des"></p>
+          </div>
+          <div class="images">
+            <img src="will.jpg" alt="">
+            <img src="d.jpg" alt="">
+            <img src="w.jpg" alt="">
+          </div>
+          <div class="blkcontainer-2" id="About">
+          <h2 id="about"></h2>
+          <p id="about_des"></p>
+          </div>
+          <div class="blkcontainer-3">
+            <h1 id="Sub"></h1>
+            <h2 id="BW"></h2>
+            <p id="Bird_des"></p>
+            <div class="images">
+              <img src="bird1.jpg">
+              <img src="bird2.jpg">
+              <img src="bird3.jpg">
+              <img src="bird4.jpg">
+            </div>
+            <h2 id="LST"></h2>
+            <p id="Tour_des"></p>
+            <a href="http://www.dwc.gov.lk/wnp">
+              <button type="button" class="btn">Explore</button>
+            </a>
+            <div class="images">
+              <img src="saf.jpg" alt="">
+              <img src="saf.webp" alt="">
+            </div>
+            <h2 id="Wil"></h2>
+            <h3 id="subpoint"></h3>
+            <p>
+              <li id="First_point"></li><br>
+                
+              <li id="second_point"></li>
+
+              <li id="third_point"></li>
+            </p>
+            <div class="images-2">
+              <img src="wl.jpg">
+            </div>
+      </div>
+      
+  </div>
+  <button class="popup-button" id="show-popup">Edit Content</button>
+  <button class="subs-button" id="subcribers">Subscribers</button>
+
+  <div class="popup-container" id="popup-container">
+      <div class="popup-box">
+        <div class="input-box">
+          <label class="sele">Select Content to Edit : </label>
+          <select id="select">
+              <option value="Wilpattu">Title</option>
+              <option value="Welcome">Welcome</option>
+              <option value="Welcome_des">Description</option>
+              <option value="about">About</option>
+              <option value="about_des">About_des</option>
+              <option value="Sub">Things to do</option>
+              <option value="BW">Bird Watching</option>
+              <option value="Bird_des">Bird Watching des</option>
+              <option value="LST">Wilpattu Tour</option>
+              <option value="Tour_des">Wilpattu Tour des</option>
+              <option value="Wil">Is Wilpattu Worth Visiting?</option>
+              <option value="subpoint">Wilpattu is considered visiting :</option>
+              <option value="First_point">Unspoiled Safari Destination</option>
+              <option value="second_point">Diverse Wildlife</option>
+              <option value="third_point">Scenic Landscapes</option>
+          </select>
+        </div>
+
+        <div class="input-box">
+          <input type="text" class="input-field" id="inputText" placeholder="Enter the new text" required>
+        </div>
+          <button class="save-btn" id="save">Update</button>
+
+          <button class="close-btn" id="close-popup">Exit</button>
+      </div>
+  </div>
+</body>
+<footer>
+  <div class="footer-content">
+     <div class="footer-head">
+        <h4 id="footer_head"></h4>
+        <img src="logo.png" alt="Company Logo">
+        <ul class="socials">
+          <li><a href="https://web.facebook.com/?_rdc=1&_rdr"><i class="fab fa-facebook-f"></i> </a></li>
+          <li><a href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i> </a></li>
+          <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> </a></li>
+       </ul>
+     </div>
+     <div class="footer-section">
+        <h4 id="footer_link"></h4>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="Intro.html">INTRODUCTION</a></li>
+          <li><a href="Dept.html">WILDLIFE DEPARTMENT</a></li>
+          <li><a href="leo.html">LEOPARDS</a></li>
+          <li><a href="Guide.html">ANIMALS</a></li>
+          <li><a href="yala.html">YALA</a></li>
+          <li><a href="wilpattu.html">WILPATTU</a></li>
+        </ul>
+     </div>
+     <div class="footer-section">
+        <h4 id="footer_contact"></h4>
+        <ul>
+           <li><i class="fa fa-sharp fa-solid fa-map-pin"></i>  No 12, Colombo 06, Sri Lanka</li>
+           <li><i class="fa fa-solid fa-phone"></i> 0112 360 212</li>
+           <li><a href="gmail.com"><i class="fa fa-sharp fa-solid fa-envelope"></i> enchantingsl2gmail.com</a></li>
+        </ul>
+        <div class="footer-subsciption">
+          <h4 id="footer_news"></h4>
+          <button class="news" id="news">Subscribe</button>
+        </div>
+     </div>
+  </div>
+  <div class="footer-bottom">
+     <p>&copy; 2024 Enchanting Sri Lanka. All rights reserved.</p>
+  </div>
+ </footer>
+  
+  </html>
