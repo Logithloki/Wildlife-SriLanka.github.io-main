@@ -101,13 +101,9 @@ function Add_Details( e)
     
         localStorage.setItem("User_Details" , user_details_json);
     
-        console.log(user_details_json);
-
     
-        let user_details_js = JSON.parse(localStorage.getItem("User_Details"));
     
-     
-        console.log(user_details_js);
+     alert("Thank you for subscribing !")
         
     }
 
