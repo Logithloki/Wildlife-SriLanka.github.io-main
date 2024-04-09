@@ -70,7 +70,7 @@ function check_user (e)
 
     if (check == 1) {
         alert("Login successful!");
-        window.location.href = "index.html";
+        window.location.href = "i.html";
         localStorage.setItem("Check" , JSON.stringify("user"))
     } 
     else if (check == 2) {
