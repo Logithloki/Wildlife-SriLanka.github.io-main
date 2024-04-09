@@ -103,7 +103,7 @@ function Add_Details( e)
     
     
     
-     alert("Thank you for subscribing !")
+        alert("Thank you for subscribing !")
         
     }
 
